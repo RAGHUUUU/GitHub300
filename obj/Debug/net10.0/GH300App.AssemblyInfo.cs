@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GH300App")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+202fdac6ef08ed34e0ee820f33b1f86f90da7393")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+60d003f41fc0f4a9542f98aa9000534270b89ad5")]
 [assembly: System.Reflection.AssemblyProductAttribute("GH300App")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GH300App")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
